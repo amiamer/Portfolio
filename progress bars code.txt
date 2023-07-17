@@ -1,0 +1,66 @@
+            <div class="about-stats">
+                <!-- ABOUT ME / MY STATS - SKILLS SECTION HEADING -->
+                <h4 class="stat-title">My Skills</h4>
+                <div class="progress-bars">
+                    <div class="progress-bar">
+                        <!-- ABOUT ME / MY STATS PAGE SKILL 1 -->
+                        <p class="prog-title">Skill1</p>
+                        <div class="progress-con">
+                            <p class="prog-text">s1width%</p>
+                            <div class="progress">
+                                <span class="skill1"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="progress-bar">
+                        <!-- ABOUT ME / MY STATS PAGE SKILL 2 -->
+                        <p class="prog-title">Skill2</p>
+                        <div class="progress-con">
+                            <p class="prog-text">s2width%</p>
+                            <div class="progress">
+                                <span class="skill2"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="progress-bar">
+                        <!-- ABOUT ME / MY STATS PAGE SKILL 3 -->
+                        <p class="prog-title">Skill3</p>
+                        <div class="progress-con">
+                            <p class="prog-text">s3width%</p>
+                            <div class="progress">
+                                <span class="skill3"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="progress-bar">
+                        <!-- ABOUT ME / MY STATS PAGE SKILL 4 -->
+                        <p class="prog-title">Skill4</p>
+                        <div class="progress-con">
+                            <p class="prog-text">s4width%</p>
+                            <div class="progress">
+                                <span class="skill4"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="progress-bar">
+                        <!-- ABOUT ME / MY STATS PAGE SKILL 5 -->
+                        <p class="prog-title">Skill5</p>
+                        <div class="progress-con">
+                            <p class="prog-text">s5width%</p>
+                            <div class="progress">
+                                <span class="skill5"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="progress-bar">
+                        <!-- ABOUT ME / MY STATS PAGE SKILL 6 -->
+                        <p class="prog-title">Skill6</p>
+                        <div class="progress-con">
+                            <p class="prog-text">s6width%</p>
+                            <div class="progress">
+                                <span class="skill6"></span>
+                            </div>
+                        </div>
+                    </div>    
+                </div>
+            </div> 
